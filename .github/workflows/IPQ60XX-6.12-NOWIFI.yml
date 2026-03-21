@@ -6,8 +6,8 @@ on:
     - cron: 0 19 * * *
 
 env:
-  REPO_URL: https://github.com/LiBwrt/openwrt-6.x.git
-  REPO_BRANCH: main-nss
+  REPO_URL: https://github.com/cayxxx/openwrt-6.x.git
+  REPO_BRANCH: 20260321
   CONFIG_FILE: configs/ipq60xx-6.12-nowifi_20260321.config
   DIY_SCRIPT: libwrt.sh
   CLASH_KERNEL: amd64
